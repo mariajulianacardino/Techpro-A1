@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class ShoppingList {
+public class ShoppingListProject {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] items = new String[5];
